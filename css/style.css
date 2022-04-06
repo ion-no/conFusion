@@ -1,0 +1,44 @@
+.row-header{
+    margin: 0px auto;
+    padding : 0px auto;
+}
+
+.row-content{
+    margin : 0px auto;
+    padding : 10px 0px 10px 0px;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.footer {
+    background-color: rgb(249, 239, 195);
+    margin : 0px auto;
+    padding : 20px 0px 20px 0px;
+    font-family: Helvetica;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color: rgb(247, 209, 129);
+    color: floralwhite;
+    font-family: cursive;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+.all {
+    font-family: cursive;
+}
+
+.navbar{
+    background-color: rgb(252, 186, 72);
+}
+
+.breadcrumb{
+    background-color: white;
+}
